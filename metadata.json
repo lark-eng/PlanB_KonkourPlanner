@@ -1,0 +1,6 @@
+{
+  "name": "Plan B",
+  "description": "دفتر برنامه‌ریزی تحصیلی و تقویم شمسی با تم تیره و آبی شامل جدول مطالعه روزانه، گزارش هفتگی و تحلیل آزمون",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
